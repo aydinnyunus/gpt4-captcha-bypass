@@ -72,6 +72,11 @@ python captcha_tester.py text
 
 Recaptcha and Slider may be bypassed in average 10 attempts.
 
+<img width="407" alt="image" src="https://github.com/user-attachments/assets/1972322b-fd6b-4641-8cdf-a74e53311de7">
+
+<img width="283" alt="image" src="https://github.com/user-attachments/assets/fe7c5c5b-e8d3-4f03-9c94-e778c849640a">
+
+
 ## Contact
 
 [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/linkedin.png" title="LinkedIn">](https://linkedin.com/in/yunus-ayd%C4%B1n-b9b01a18a/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/github.png" title="Github">](https://github.com/aydinnyunus/gpt4-captcha-bypass) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/instagram-new.png" title="Instagram">](https://instagram.com/aydinyunus_/) [<img target="_blank" src="https://img.icons8.com/bubbles/100/000000/twitter-squared.png" title="LinkedIn">](https://twitter.com/aydinnyunuss)
