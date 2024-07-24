@@ -42,7 +42,7 @@ This project is a CLI tool for testing various types of captchas including puzzl
 Run the CLI tool with the desired captcha type:
 
 ```sh
-python captcha_tester.py [captcha_type]
+python main.py [captcha_type]
 ```
 
 where `[captcha_type]` can be one of: `puzzle`, `text`, `complicated_text`, `recaptcha`.
@@ -50,7 +50,7 @@ where `[captcha_type]` can be one of: `puzzle`, `text`, `complicated_text`, `rec
 Example:
 
 ```sh
-python captcha_tester.py text
+python main.py text
 ```
 
 ## Captcha Types
