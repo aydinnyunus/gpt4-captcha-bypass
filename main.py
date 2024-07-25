@@ -149,7 +149,7 @@ def puzzle_test(driver):
         if numbers:
             result = int(numbers[0])
         else:
-            result = None
+            result = 0
         if result < 110:
             result = 90
         all_results.append(result)
