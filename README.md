@@ -103,6 +103,16 @@ python main.py puzzle --provider openai --model gpt-4o
 6.  **Perform Action**: The script uses Selenium to enter the text, move the slider, or click the correct images.
 7.  **Verify**: The script checks for a success message to confirm the CAPTCHA was solved.
 
+## Success Examples
+
+Here are some examples of the solver successfully bypassing different CAPTCHA types.
+
+| CAPTCHA Type         | OpenAI (GPT-4o)                                                                                  | Gemini (2.5 Pro)                                                                                 |
+| -------------------- | ------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------ |
+| **reCAPTCHA v2**     | <img src="successful_solves/recaptcha_v2_openai/success_20250906_164422.gif" width="300">          | <img src="successful_solves/recaptcha_v2_gemini/success_20250906_170027.gif" width="300">          |
+| **Puzzle**           | <img src="successful_solves/puzzle_openai/success_20250727_173631.gif" width="300">                | <img src="successful_solves/puzzle_gemini/success_20250906_165149.gif" width="300">                |
+| **Complicated Text** | <img src="successful_solves/complicated_text_openai/success_20250906_165751.gif" width="300">      | <img src="successful_solves/complicated_text_gemini/success_20250906_165818.gif" width="300">      |
+
 ## Project Structure
 
 - `main.py`: The main entry point to run the CAPTCHA solver tests. Handles command-line arguments and calls the appropriate test functions.
